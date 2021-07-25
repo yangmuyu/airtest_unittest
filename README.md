@@ -1,0 +1,2 @@
+# airtest_unittest
+airtest+unittest实现移动端ui自动化，并使用BeautifulReport生成测试报告
